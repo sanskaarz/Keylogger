@@ -18,7 +18,7 @@ Purpose of the project is testing the security of information systems
 
 •**If Target finds the Code and Open the File for Want to Learn your MAIL and Password The Program DELETE itself.**
 
-## USAGE TEMP MAIL API
+## TEMP MAIL API USAGE
 
 #### https://temp-mail.org/en/api/
 
