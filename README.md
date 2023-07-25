@@ -20,7 +20,7 @@ Purpose of the project is testing the security of information systems
 
 ## TEMP MAIL API USAGE
 
-#### https://temp-mail.org/en/api/
+#### https://temp-mail.org/en/api
 
 
 ## ANTIVIRUS TEST
