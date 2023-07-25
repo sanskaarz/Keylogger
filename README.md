@@ -23,7 +23,7 @@ Purpose of the project is testing the security of information systems
 #### https://temp-mail.org/en/api
 
 
-## ANTIVIRUS TEST
+## VIRUS TEST
 
 ![github-small](/images/1.png)
 
